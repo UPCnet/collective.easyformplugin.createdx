@@ -2,11 +2,10 @@ Changelog
 =========
 
 
-1.1 (unreleased)
+1.1 (2023-09-12)
 ----------------
 
-- Nothing changed yet.
-
+* python requires [Pilar Marinas]
 
 1.0 (2023-09-12)
 ----------------
