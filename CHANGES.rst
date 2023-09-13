@@ -2,11 +2,10 @@ Changelog
 =========
 
 
-1.2 (unreleased)
+1.2 (2023-09-13)
 ----------------
 
-- Nothing changed yet.
-
+* Change python requires version to >=2.7 [Ivan Kosovtsev]
 
 1.1 (2023-09-12)
 ----------------

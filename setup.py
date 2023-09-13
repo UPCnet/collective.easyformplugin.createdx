@@ -16,7 +16,7 @@ long_description = "\n\n".join(
 
 setup(
     name="collective.easyformplugin.createdx",
-    version="1.2.dev0",
+    version="1.2",
     description="Create dexterity objects from easyform submissions",
     long_description=long_description,
     # Get more from https://pypi.org/classifiers/
